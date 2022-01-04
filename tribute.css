@@ -1,0 +1,19 @@
+#img-div {
+    text-align: center;
+    display: block;
+    filter: grayscale(100%);
+    width: 100%;
+ }
+ 
+ img {
+   padding-top: 10px;
+   height: auto;
+   max-width: 330px;
+ }
+ #img-caption{font-size: 30px;}
+
+ #tribute-link{font-weight:bold;}
+
+  h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
